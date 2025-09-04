@@ -104,7 +104,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+<<<<<<< HEAD
     - _AddPrecomputedVelocity: 0
+=======
+>>>>>>> 61d52e7fdaf0404e8eb50a2a9a62452f3e355a52
     - _AlphaClip: 0
     - _AlphaToMask: 0
     - _Blend: 0
@@ -135,7 +138,10 @@ Material:
     - _SrcBlendAlpha: 1
     - _Surface: 0
     - _UVSec: 0
+<<<<<<< HEAD
     - _XRMotionVectorsPass: 1
+=======
+>>>>>>> 61d52e7fdaf0404e8eb50a2a9a62452f3e355a52
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 0.3210662, g: 0.33083364, b: 0.3490566, a: 1}
